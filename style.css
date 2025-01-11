@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+   
+}
+
+.name{
+    color: rgba(14, 14, 14, 0.5);
+   font-weight: 500;
+   font-size: 24px;
+   margin: 24px 0px;
+
+
+
+}
+.title{
+    color: rgb(14, 14, 14);
+    font-weight: 700;
+    font-size: 56px;
+    font-weight: 700;
+    margin: 24px 0px;
+    gap: 16;
+    width: 622px;
+}
+.btn{
+    border-radius: 8px;
+background: rgb(0, 106, 80);
+margin: 24px 0px;
+justify-content: center;
+align-items: center;
+padding: 17px 34px 17px 34px;
+border: none;
+color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+text-align: left;
+}
+.picture{
+    
+height: 329.21px;
+padding: 50px;
+}
+
+.banner{
+    font-family: Fira Sans;
+    display: flex;
+    border-radius: 24px;
+
+background: rgb(198, 228, 214);
+justify-content: space-between;
+margin: 0 80px 0 80px;
+
+}
+.content{
+    padding: 50px;
+}
+.vision{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 30px;
+font-weight: 700;
+text-align: left;
+margin-bottom: 24px;
+}
+.full-content{
+    margin: 80px 80px 80px 80px;
+    font-family: Fira Sans;
+
+}
+.describe{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 32px;
+}
+ .asset0{
+    background: rgb(202, 224, 255);
+    width: 410.67px;
+height: 325px;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+gap: 24px;
+justify-content: flex-start;
+
+
+ }
+ .asset1{
+    
+    
+    background: rgb(198, 228, 214);
+    width: 410.67px;
+height: 325px;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+justify-content: flex-start;
+
+
+ }
+ .asset2{
+    
+background: rgb(247, 235, 207);
+    
+    width: 410.67px;
+height: 325px;
+padding: 32px;
+box-sizing: border-box;
+border-radius: 16px;
+gap: 24px;
+justify-content: flex-start;
+ }
+ 
+ .asset-container{
+    display: flex;
+    gap: 24px;
+ }
+ .btn0{
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+text-align: left;
+border-radius: 8px;
+padding: 11px 20px 11px 20px;
+background: rgb(84, 144, 245);
+border: none;
+ }
+ .btn1{
+    background: rgb(9, 161, 92);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 600;
+text-align: left;
+border-radius: 8px;
+padding: 11px 20px 11px 20px;
+color: aliceblue;
+border: none;
+ }
+ .btn2{
+    border-radius: 8px;
+
+background: rgb(255, 194, 57);
+font-family:  Fira Sans;
+font-size: 16px;
+font-weight: 600;
+text-align: left;
+color: aliceblue;
+padding: 11px 20px 11px 20px;
+border: none;
+ }
+ 
+ .recent{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 30px;
+font-weight: 700;
+text-align: left;
+margin-bottom: 24px;
+}
+.describe1{
+    color: rgba(14, 14, 14, 0.7);
+    font-family: Fira Sans;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: left;
+    margin-bottom: 32px;
+}
+.setelite{
+    margin: 80px 80px 80px 80px;
+    font-family: Fira Sans;
+   
+
+}
+ .date-time{
+    display: flex;
+    gap: 12px;
+ }
+ .btn3{
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+font-family:  Fira Sans;
+font-size: 16px;
+font-weight: 600;
+text-align: left;
+color: aliceblue;
+padding: 11px 20px 11px 20px;
+border: none;
+ }
+ .Bd{
+    display: flex;
+    border-radius: 24px;
+    align-items: center;
+    gap: 25px;
+    padding: 48px;
+background: rgb(255, 255, 255);
+ }
+ .color{
+    background-color: lightgrey;
+  
+ }
+ #setelite2>img{
+    border-radius: 30px;
+    width: 408px;
+height: 306px;
+ }
+ 
