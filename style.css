@@ -208,4 +208,121 @@ background: rgb(255, 255, 255);
     width: 408px;
 height: 306px;
  }
- 
+ .gap{
+    margin: 20px 0px;
+ }
+ .Donate{
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+margin: 32px 0;
+ }
+ .passage{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+text-align: center;
+ }
+.G{
+    gap: 32px
+    ;
+}
+.donate-content
+{
+   display: flex;
+}
+.Parent{
+    display: flex;
+    
+    gap: 24px;
+    justify-content: center;
+    margin:  0px 24px;
+    
+    
+}
+.child {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: white;
+    padding: 20px;
+    
+    border-radius: 16px;
+   
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+text-align: center;
+padding: 25px;
+}
+.child:hover,
+    .child.active {
+      background-color: #d9f8e0;
+      border-color: #46ab49;
+    }
+.other input{
+    width: 930px;
+    height: 50px;
+    justify-content: center;
+   margin: 32px 0px; 
+   border: none;
+   text-align: center;
+   color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 400;
+
+}
+.email input{
+    color: rgba(14, 14, 14, 0.3);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+width: 600px;
+height: 25px;
+padding: 18px 40px 18px 40px;
+border-radius: 5px;
+color: rgba(14, 14, 14, 0.3);
+
+}
+.Subscribe2{
+    
+padding: 17px 34px 17px 34px;
+border-radius: 0px 8px 8px 0px;
+padding: 18px 40px 18px 40px;
+
+background: rgb(0, 106, 80);
+color: white;
+font-family: Fira Sans;
+
+font-size: 18px;
+font-weight: 600;
+text-align: center;
+}
+.chalange1{
+    display: flex;
+    margin-top: 24px;
+    justify-content: center;
+    
+}
+.chalange1-color{
+    margin: 80px 80px;
+    background-color: rgb(198, 228, 214);
+    border-radius: 24px;
+    padding: 60px;
+    
+}
+ .qoute{
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: white;
+    margin-top: 34px;
+    background-image: url(assets/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: 25px 24px;
+    padding: 48px 24px;
+
+ }
